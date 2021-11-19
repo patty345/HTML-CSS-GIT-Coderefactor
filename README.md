@@ -13,7 +13,7 @@ None
 
 ## Credits
 
-Xander Rapstine for providing this code starter
+Xander Rapstine for providing this starter code 
 https://github.com/Xandromus
 
 ## License
